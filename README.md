@@ -11,7 +11,7 @@ This project is focused on achieving the following key objectives:
 2. **Market Performance and Sales Targets Comparison:**
    - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
 
-# Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:
+ Through the completion of this project, I gained valuable insights and developed technical skills . Here's what I learned:
 
 ## Technical Skills
 
